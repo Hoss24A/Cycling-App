@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Product Catalogue</string>
+    <string name="Product_Catalogue">Product Catalogue\n</string>
+    <string name="product_Name">Enter name</string>
+    <string name="product_Price">Enter price</string>
+    <string name="add_Button">Add</string>
+</resources>
